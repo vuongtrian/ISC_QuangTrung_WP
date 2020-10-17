@@ -1,4 +1,4 @@
-# Github
+# Thiết lập dự án trên GitHub
 Tên nhóm: F.A Team
 1. Thông tin SV1:
   - Họ tên: Vương Trị An
